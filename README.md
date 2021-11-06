@@ -1,3 +1,9 @@
+
+# Firebase Demo
+
+This project deployed to firebase so you can see live demo here [Demo(https://netflix-clone-c6d62.web.app/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
